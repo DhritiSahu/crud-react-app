@@ -20,7 +20,7 @@ const Update = () => {
     e.preventDefault();
     console.log("Id...", id);
     axios
-      .put(`https://62a59821b9b74f766a3c09a4.mockapi.io/crud-youtube/${id}`, {
+      .put(`https://67b5c56507ba6e59083e663d.mockapi.io/crud/crudapp${id}`, {
         name: name,
         email: email,
       })
