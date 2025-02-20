@@ -29,7 +29,7 @@ Copy
 Edit
 npm run
 📖 Usage
-Open the app in your browser: http://📝 Features
+Open the app in your browser:  http://localhost:5174📝 Features
 📌 Add, edit, delete, and view records.
 🎨 Responsive UI with Bootstrap styling.
 🔄 State management using React hooks.
